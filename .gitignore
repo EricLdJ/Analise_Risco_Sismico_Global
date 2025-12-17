@@ -1,1 +1,19 @@
+# Arquivos Compilados
+__pycache__/
+*.py[cod]
+
+# Ambientes Virtuais
+.venv/
+venv/
+env/
+
+########
 .env
+
+# Configurações da IDE 
+.vscode/
+.idea/
+
+# Lixo 
+.DS_Store
+Thumbs.db
